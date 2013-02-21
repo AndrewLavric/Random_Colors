@@ -6,8 +6,8 @@ bl_info={
     "location":"View3D > Object Tools",
     "description":"Random object (face,vertex) colors",
     "category":"Object",
-    "wiki_url":"",
-    "tracker_url":""}
+    "wiki_url":"https://github.com/AndrewLavric/Random_Colors",
+    "tracker_url":"https://github.com/AndrewLavric/Random_Colors"}
 
 import bpy
 import random
